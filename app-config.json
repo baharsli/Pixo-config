@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "min_supported": "1.0.0",
   "latest": "1.0.0",
   "block_message": "Your current version is no longer supported. Please update the app."
